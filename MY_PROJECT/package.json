@@ -1,0 +1,15 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "This is my own made json.file conatining Info about the projects packages or their dependencies ==> meta data about about the packages ==>dependencies ==> and soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniket Verma",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
